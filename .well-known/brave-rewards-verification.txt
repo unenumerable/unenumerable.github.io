@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
 Domain: unenumerable.github.io
-Token: fb0ec0d54a5d3853b283983204a46e41df8867cd4b54dc0dd9ec4e6b41ea8339
+Token: 97a9fe83a092c542473a13a1d1a5ba0589ca25725060d4e4e5238acd6315d96f
